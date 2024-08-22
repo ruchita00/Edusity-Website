@@ -9,10 +9,9 @@ const Hero = () => {
       <div className="hero-text">
         <h1>We Ensure better education for a better world</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum fuga
-          voluptas totam magni, quas aut distinctio quibusdam doloribus veniam
-          vel eum commodi! Eveniet beatae non totam officia maiores quaerat
-          esse!
+          Our cutting-edge curriculum is designed to empower students with the
+          knowledge, skills, and experiences needed to excel in the dynamic
+          field of education
         </p>
         <button className="btn">
           Explore more <img src={dark_arrow} alt="arrow_icon" />
