@@ -1,8 +1,6 @@
 https://edusity-clg.netlify.app/
 # ❤️ Edusity College Website 🙏
-### _This is my Edusity Project, I made it using HTML, CSS and Javascript, React._ [Watch Live](https://edusity-clg.netlify.app/
-)
-
+### _This is my Edusity Project, I made it using HTML, CSS and Javascript, React._ [Watch Live](https://edusity-clg.netlify.app/)
 
 ## 🔥 Clone this Repository
 You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
