@@ -1,4 +1,3 @@
-https://edusity-clg.netlify.app/
 # ❤️ Edusity College Website 🙏
 ### _This is my Edusity Project, I made it using HTML, CSS and Javascript, React._ [Watch Live](https://edusity-clg.netlify.app/)
 
